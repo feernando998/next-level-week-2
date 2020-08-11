@@ -3,3 +3,7 @@
 # next-level-week-2
 
 # Implementação da plataforma proffy.
+
+# Tecnologias utilizadas: Node.Js, JavaScript, Nunjucks, SQLite, HTML e CSS.
+
+# Projeto desenvolvido na NLW 2, produzido pela @Rocketseat entre 3 a 9 de agosto de 2020.
